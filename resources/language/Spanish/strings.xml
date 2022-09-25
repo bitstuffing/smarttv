@@ -1,0 +1,30 @@
+<strings>
+    <string id="10001">Listas de páginas detectadas</string>
+    <string id="10002">Descargando...</string>
+    <string id="10003">%.2fMB/%.2fMB (%d%%) %.2f Kb/s %s quedan </string>
+    <string id="10004">No es posible descargar el fichero</string>
+
+    <string id="10009">Algo ha ocurrido, probablemente el link esté caido</string>
+
+    <string id="10011">¡Actualización disponible!</string>
+
+    <string id="10012">Teletexto</string>
+    <string id="10013">Introduzca una página manualmente</string>
+
+    <string id="11010">Sí</string>
+    <string id="11011">No</string>
+    <string id="11012">Confirmar</string>
+    <string id="11013">Cancelar</string>
+    <string id="11014">Actualizar</string>
+    <string id="11015">Mantener</string>
+    <string id="11016">Elija una opción</string>
+    <string id="11017">Forzar actualización</string>
+    <string id="11018">Buscar</string>
+    <string id="11019">Usuario</string>
+    <string id="11020">Contraseña</string>
+    <string id="11021">Anónimo / Aleatorio (free)</string>
+
+    <string id="30000">ATresPlayer</string>
+
+
+</strings>

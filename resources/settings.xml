@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+    <category label="30000">
+
+        <setting label="11019" type="text" id="username" default="" />
+
+        <setting label="11020" type="text" id="password" option="hidden" default="" />
+
+        <setting type="sep" />
+
+        <setting id="random" type="bool" label="11021" default="true" />
+
+    </category>
+
+</settings>
