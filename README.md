@@ -16,7 +16,7 @@ Kodi >= 19.x forked from https://github.com/zag2me/script.hello.world
 
 All the developer information is extracted from https://kodi.wiki/view/HOW-TO:HelloWorld_addon
 
-============
+
 Installation
 ============
 
